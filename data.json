@@ -1,0 +1,728 @@
+[
+  {
+    "id": 1,
+    "name": "DipankarSil",
+    "name_search": "dipankarsil",
+    "phone": "9733288609",
+    "city": "Raniganj",
+    "address": "GTFS MULTI SERVICES LTD. RAIGANJ, UTTAR DINAJPUR, W.B,"
+  },
+  {
+    "id": 2,
+    "name": "PROSENJITDASGUPTA",
+    "name_search": "prosenjitdasgupta",
+    "phone": "9830718840",
+    "city": "Raniganj",
+    "address": "Bhownipore kol-25"
+  },
+  {
+    "id": 3,
+    "name": "SuvabrataDutta",
+    "name_search": "suvabratadutta",
+    "phone": "9474117909",
+    "city": "Raniganj",
+    "address": "108/1-n, Midnapur Road, Glass Factory lane, Girjrpara, Raniganj. Dist: Burdwan. Pin:713347 (W.B)"
+  },
+  {
+    "id": 4,
+    "name": "AVIKPANDA",
+    "name_search": "avikpanda",
+    "phone": "9932337834",
+    "city": "Raniganj",
+    "address": "21\\A M.C. ROAD(K.G.LANE) BESIDE RANIGANJ POLICE STATION POST-RANIGANJ DIST-BURDWAN(W.B.) PIN-713347"
+  },
+  {
+    "id": 5,
+    "name": "Soumyajyoti Ghosh",
+    "name_search": "soumyajyoti ghosh",
+    "phone": "9732117123",
+    "city": "Raniganj",
+    "address": "28, N.S.B. Road P.O.- Raniganj DIST- Burdwan West Bengal PIN- 713347"
+  },
+  {
+    "id": 6,
+    "name": "PANKAJSRIVASTAVA",
+    "name_search": "pankajsrivastava",
+    "phone": "9732102625",
+    "city": "Raniganj",
+    "address": "CHAPUI KHAS COLLIERY PO-KALIPAHARI DIST-BURDWAN WEST BENGAL-713339"
+  },
+  {
+    "id": 7,
+    "name": "PUSHPAMROY",
+    "name_search": "pushpamroy",
+    "phone": "9933034670",
+    "city": "Raniganj",
+    "address": ""
+  },
+  {
+    "id": 8,
+    "name": "Dhananjay Roy",
+    "name_search": "dhananjay roy",
+    "phone": "9732233374",
+    "city": "Raniganj",
+    "address": "222,Vidhayak,road, Rajendra Nagar Lucknow UTTAR PRADESH 226004 India"
+  },
+  {
+    "id": 9,
+    "name": "RishiSinghania",
+    "name_search": "rishisinghania",
+    "phone": "9832172643",
+    "city": "Raniganj",
+    "address": "2,C,R,Road Raniganj Dist- Burdwan, Pin- 713347 West Bengal India"
+  },
+  {
+    "id": 10,
+    "name": "Kasturi Mazumder",
+    "name_search": "kasturi mazumder",
+    "phone": "9800616878",
+    "city": "Raniganj",
+    "address": "5,nsb road,near pundit pukur,searsole rajbari,ranigunj,wb"
+  },
+  {
+    "id": 11,
+    "name": "Biswajit Choudhury",
+    "name_search": "biswajit choudhury",
+    "phone": "9836618415",
+    "city": "Raniganj",
+    "address": "76,RAMKRISHNA ROAD,SAHID KHUDIRAM PALLY,NIMTA,KOLKATA-700049"
+  },
+  {
+    "id": 12,
+    "name": "Babla Swain",
+    "name_search": "babla swain",
+    "phone": "9832321677",
+    "city": "Raniganj",
+    "address": "VIA-SEARSOLE, RAJBARI BURDWAN W. B 713347 IN"
+  },
+  {
+    "id": 13,
+    "name": "sagar mudi",
+    "name_search": "sagar mudi",
+    "phone": "9734641164",
+    "city": "Raniganj",
+    "address": "At+po- Haripur City- Raniganj Dist- Burdwan Pin-713378 West Bengal"
+  },
+  {
+    "id": 14,
+    "name": "SantanuSarkar",
+    "name_search": "santanusarkar",
+    "phone": "9800935085",
+    "city": "Raniganj",
+    "address": "C/o. Tapan Sarkar Santanu Sarkar Sisu Bagan Korapara Raniganj Dist- Burdwan WB Ph - 9800935085 / 9339302812"
+  },
+  {
+    "id": 15,
+    "name": "jyoti kumar verma",
+    "name_search": "jyoti kumar verma",
+    "phone": "9434237070",
+    "city": "Raniganj",
+    "address": "62, N.S.B. Road Raniganj-713347;Near Eye hospital Burdwan W.B."
+  },
+  {
+    "id": 16,
+    "name": "sudipchatterjee",
+    "name_search": "sudipchatterjee",
+    "phone": "9832155121",
+    "city": "Raniganj",
+    "address": "Haradhan Chatterjee; Tantipara;Girjapara; P.O-Raniganj; DIST.-Burdwan WestBengal."
+  },
+  {
+    "id": 17,
+    "name": "Tajddin Sheikh",
+    "name_search": "tajddin sheikh",
+    "phone": "9332673232",
+    "city": "Raniganj",
+    "address": "C/o- Abdul JalalKhas Kajora Colliery(upper center),P.O.- Kajora gram,dist-Burdwan ,State- W.B.,India"
+  },
+  {
+    "id": 18,
+    "name": "Goutam Maity",
+    "name_search": "goutam maity",
+    "phone": "9507527129",
+    "city": "Raniganj",
+    "address": "Goutam kumar Maity Vill& P.O.-Bohichberia P.S- Nandakumar Dist.-Purba Medinipur Pin.-721649 West Bengal"
+  },
+  {
+    "id": 19,
+    "name": "ashok kumar malik",
+    "name_search": "ashok kumar malik",
+    "phone": "9932026902",
+    "city": "Raniganj",
+    "address": "ashok kumar malik at-tankuni po-balabhadrapur di-bhadrak pin-756116"
+  },
+  {
+    "id": 20,
+    "name": "SwapanSahoo",
+    "name_search": "swapansahoo",
+    "phone": "9477240164",
+    "city": "Raniganj",
+    "address": "15/5, kabi chandi charan mitra street, belghoria, kolkata-700 056"
+  },
+  {
+    "id": 21,
+    "name": "MOHAMMED AFROZ",
+    "name_search": "mohammed afroz",
+    "phone": "9933139478",
+    "city": "Raniganj",
+    "address": "7/1, D.P.Lane Raniganj:713347 Dist : Burdwan West Bengal (INDIA)"
+  },
+  {
+    "id": 22,
+    "name": "CHANCHALGOYAL",
+    "name_search": "chanchalgoyal",
+    "phone": "9832254515",
+    "city": "Raniganj",
+    "address": "Rambagan, Po: Searsole Rajbari, Raniganj, Dist: Burdwan (WB)"
+  },
+  {
+    "id": 23,
+    "name": "Swaraj Das",
+    "name_search": "swaraj das",
+    "phone": "9333216590",
+    "city": "Raniganj",
+    "address": "56/1, East College Para, Raniganj Burdwan WB 713347 India"
+  },
+  {
+    "id": 24,
+    "name": "abir ghosh",
+    "name_search": "abir ghosh",
+    "phone": "9851761330",
+    "city": "Raniganj",
+    "address": "burnpur,nabaghanti,kirtan math"
+  },
+  {
+    "id": 25,
+    "name": "madhumitaroy",
+    "name_search": "madhumitaroy",
+    "phone": "9832416826",
+    "city": "Raniganj",
+    "address": "AF 136, Saltlake,Sector 1 Kolkata WEST BENGAL 700064 India"
+  },
+  {
+    "id": 26,
+    "name": "RajeshGupta",
+    "name_search": "rajeshgupta",
+    "phone": "9332444211",
+    "city": "Raniganj",
+    "address": "40, Dr. R. R. Road Bye Lane Burdwan WEST BENGAL 713347 India"
+  },
+  {
+    "id": 27,
+    "name": "ABHIJNAN DAS GUPTA",
+    "name_search": "abhijnan das gupta",
+    "phone": "9233306614",
+    "city": "Raniganj",
+    "address": "RANIGANJ PIN- ABHIJNAN"
+  },
+  {
+    "id": 28,
+    "name": "SERAJULHAQUE",
+    "name_search": "serajulhaque",
+    "phone": "9997448971",
+    "city": "Raniganj",
+    "address": "AT + PO- BARI BALIYA, VIA: LAKHMINIA DISTRICT- BEGUSARAI, BIHAR, INDIA"
+  },
+  {
+    "id": 29,
+    "name": "SHAHZAD AKBAR",
+    "name_search": "shahzad akbar",
+    "phone": "9332954640",
+    "city": "Raniganj",
+    "address": "NABINAGAR PO-RANIGANJ, PIN-713347 WEST BENGAL INDIA"
+  },
+  {
+    "id": 30,
+    "name": "Nitesh Kumar Agrhari",
+    "name_search": "nitesh kumar agrhari",
+    "phone": "9332515668",
+    "city": "Raniganj",
+    "address": "BALLAVPUR PAPER MILL COLONY RANIGANJ."
+  },
+  {
+    "id": 31,
+    "name": "eman shaw",
+    "name_search": "eman shaw",
+    "phone": "9475151678",
+    "city": "Raniganj",
+    "address": "C/o Late Laxmi Kanto Sil Ashoke Polly, Raniganj Dist: Burdwan Pin-713347"
+  },
+  {
+    "id": 32,
+    "name": "sanjoybatabyal",
+    "name_search": "sanjoybatabyal",
+    "phone": "9732090757",
+    "city": "Raniganj",
+    "address": "20/21 RANA PRATAP ROAD A-ZONE DURGAPUR-4 DIST-BURDWAN WEST BENGAL PIN-713204"
+  },
+  {
+    "id": 33,
+    "name": "PrasadBiswas",
+    "name_search": "prasadbiswas",
+    "phone": "9432233446",
+    "city": "Raniganj",
+    "address": "Halisahar, Kolkata, 24 Pgs N, W.B., India"
+  },
+  {
+    "id": 34,
+    "name": "Sani Sahani",
+    "name_search": "sani sahani",
+    "phone": "9333303227",
+    "city": "Raniganj",
+    "address": "Vill: New Milanpara P.O.: Raiganj Dist: Uttar Dinajpur Pin: 733134"
+  },
+  {
+    "id": 35,
+    "name": "RANJAN SATPATHI",
+    "name_search": "ranjan satpathi",
+    "phone": "9800768181",
+    "city": "Raniganj",
+    "address": "VILL-CHANDIPUR,P.O-JHARGRAM,DIST.-PASCHIM MEDINIPUR,PIN-721507."
+  },
+  {
+    "id": 36,
+    "name": "asish kumar mondal",
+    "name_search": "asish kumar mondal",
+    "phone": "9474880519",
+    "city": "Raniganj",
+    "address": "D-ss/39A, Vidyasagar Pally, Benachity, Durgapur -713213"
+  },
+  {
+    "id": 37,
+    "name": "ANOOPLADHA",
+    "name_search": "anoopladha",
+    "phone": "9660110584",
+    "city": "Raniganj",
+    "address": "154, mahavir nagar 2, maharani farm, durgapura, jaipur"
+  },
+  {
+    "id": 38,
+    "name": "biraja ramanmukherjee",
+    "name_search": "biraja ramanmukherjee",
+    "phone": "9832223870",
+    "city": "Raniganj",
+    "address": "TOPOSI COLLIERY,P.O- TOPOSI, DIST-BURDWAN,PIN-713362(W.B)"
+  },
+  {
+    "id": 39,
+    "name": "SubhajitBhowmik",
+    "name_search": "subhajitbhowmik",
+    "phone": "9434068889",
+    "city": "Raniganj",
+    "address": "Ashoke Pally , P.O - Raniganj , Dist - Burdwan , State - West Bengal , Pin - 713347 , India"
+  },
+  {
+    "id": 40,
+    "name": "MUKESH SHARMA",
+    "name_search": "mukesh sharma",
+    "phone": "9333105170",
+    "city": "Raniganj",
+    "address": "84, P.N.Malia Road Burdwan W.B 713347 India"
+  },
+  {
+    "id": 41,
+    "name": "DEBASHISMISHRA",
+    "name_search": "debashismishra",
+    "phone": "9832219810",
+    "city": "Raniganj",
+    "address": "vill+po.-kajora gram, dist.-burdwan(w.b),pin-713338"
+  },
+  {
+    "id": 42,
+    "name": "Susobhan Pal",
+    "name_search": "susobhan pal",
+    "phone": "9232398025",
+    "city": "Raniganj",
+    "address": "C/o-Subrata Mondal 3/23-Harshabardhan Road, A-Zone,Durgapur-4"
+  },
+  {
+    "id": 43,
+    "name": "SUSHANT KUMAR",
+    "name_search": "sushant kumar",
+    "phone": "91 99322-43158",
+    "city": "Raniganj",
+    "address": "SHYAM SEL LTD. POWER DIV. , INDUSTRIAL ESTATE, G6, MANGALPUR, RANIGANJ"
+  },
+  {
+    "id": 44,
+    "name": "SAXENA RAJESH",
+    "name_search": "saxena rajesh",
+    "phone": "9983811711",
+    "city": "Raniganj",
+    "address": "C/O D.C.SAXENA A.G.M.,STATE BANK OF INDIA 7/180,MALVIYA NAGAR JAIPUR"
+  },
+  {
+    "id": 45,
+    "name": "SOUMENMUKHOPADHYAY",
+    "name_search": "soumenmukhopadhyay",
+    "phone": "9749247526",
+    "city": "Raniganj",
+    "address": "PARASEA COLLIERY POST PARASEA DIST BURDWAN PIN 713384 WEST BENGAL"
+  },
+  {
+    "id": 46,
+    "name": "KOELMUKHERJEE",
+    "name_search": "koelmukherjee",
+    "phone": "9874919531",
+    "city": "Raniganj",
+    "address": "SEARSOLE RAJBARI,RANIGANJ, BURDWAN PIN 713358"
+  },
+  {
+    "id": 47,
+    "name": "AnupBaranwal",
+    "name_search": "anupbaranwal",
+    "phone": "9614954227",
+    "city": "Raniganj",
+    "address": "c\\o geeta cloth store post - haripur district - burdwan pin - 713378 state - west bengal"
+  },
+  {
+    "id": 48,
+    "name": "debabrata saha",
+    "name_search": "debabrata saha",
+    "phone": "9434961113",
+    "city": "Raniganj",
+    "address": "C/O NIROD BARAN SAHA, RABINDRA PALLY, RAIGANJ, UTTAR DINAJPUR,733134-WEST BENGLE"
+  },
+  {
+    "id": 49,
+    "name": "Debasis Das",
+    "name_search": "debasis das",
+    "phone": "9836966443",
+    "city": "Raniganj",
+    "address": "B-45, Rabindranagar Santoshpur BANGLA 700018 India"
+  },
+  {
+    "id": 50,
+    "name": "Swarup banerjee",
+    "name_search": "swarup banerjee",
+    "phone": "9851557360",
+    "city": "Raniganj",
+    "address": "Swarup Banerjee C/o Manoranjan Banerjee Vill- Bamunkuli Po- Chhatna Bankura Pin- 722132 (W.B)"
+  },
+  {
+    "id": 51,
+    "name": "sanjeevkumar",
+    "name_search": "sanjeevkumar",
+    "phone": "9609501432",
+    "city": "Raniganj",
+    "address": "FlatNo:-B-78/4 (BHEL) Po:MTPS, Dist:Bankura Pin:722183 (WestBengal) India"
+  },
+  {
+    "id": 52,
+    "name": "KunaRout",
+    "name_search": "kunarout",
+    "phone": "9932167192",
+    "city": "Raniganj",
+    "address": "At-Dalposh,PO-Jabaghat,Dist-Sundargarh Pin-769042,State-Orissa"
+  },
+  {
+    "id": 53,
+    "name": "DIPANKARDEY",
+    "name_search": "dipankardey",
+    "phone": "9231842736",
+    "city": "Raniganj",
+    "address": "74,C.R.Road(Bye Lane),RANIGANJ-713347,West Bengal."
+  },
+  {
+    "id": 54,
+    "name": "ranjan satpathi",
+    "name_search": "ranjan satpathi",
+    "phone": "9933926526",
+    "city": "Raniganj",
+    "address": "VILL-CHANDIPUR,P.O-JHARGRAM,DIST.-PASCHIM MEDINIPUR,PIN-721507."
+  },
+  {
+    "id": 55,
+    "name": "tanmoy mukherjee",
+    "name_search": "tanmoy mukherjee",
+    "phone": "9832215160",
+    "city": "Raniganj",
+    "address": "88/1 N.S.B. Road, Raniganj Dist- Burdwan 713347 (W.B.)"
+  },
+  {
+    "id": 56,
+    "name": "S VELAYUTHAM",
+    "name_search": "s velayutham",
+    "phone": "9600137232",
+    "city": "Raniganj",
+    "address": "s.velayuthamno 3/3, by pass road, kothimangalam, thiruklukundram, chennai-603 109."
+  },
+  {
+    "id": 57,
+    "name": "uytuuuytfgdxgdgb",
+    "name_search": "uytuuuytfgdxgdgb",
+    "phone": "9999034564",
+    "city": "Raniganj",
+    "address": "hgfjhgfj khbjkhgkhgkhgk"
+  },
+  {
+    "id": 58,
+    "name": "DEBASHREE DEY",
+    "name_search": "debashree dey",
+    "phone": "9735001918",
+    "city": "Raniganj",
+    "address": "P-36, MANIKTALA MAIN ROAD, SCH-VII 2ND FLOOR, KANKURGACHI KOLKATA-700054."
+  },
+  {
+    "id": 59,
+    "name": "Satyendra Kumar Yadav",
+    "name_search": "satyendra kumar yadav",
+    "phone": "9332023428",
+    "city": "Raniganj",
+    "address": "Doctors Colony, Rambagan, P.O.Searsole Rajabari, Raniganj,Dist. Burdwan (W.B.)"
+  },
+  {
+    "id": 60,
+    "name": "taniyaghosh",
+    "name_search": "taniyaghosh",
+    "phone": "9333106275",
+    "city": "Raniganj",
+    "address": "C/O DR.M.K.GHOSH,DOCTORS COLONY,P.O SEARSOLE RAJBARI,RANIGANJ,DIST BURDWAN,713358,W.B"
+  },
+  {
+    "id": 61,
+    "name": "Udaya Dalmia",
+    "name_search": "udaya dalmia",
+    "phone": "9475374909",
+    "city": "Raniganj",
+    "address": "797, Doctors' Colony Raniganj Distt Burdwan West Bengal 713 358 India"
+  },
+  {
+    "id": 62,
+    "name": "AbhishekDas",
+    "name_search": "abhishekdas",
+    "phone": "9831258751",
+    "city": "Raniganj",
+    "address": "Compassion East India AQ-12,Sector 4&5,Salt Lake, Kolkatta 700091 West Bengal"
+  },
+  {
+    "id": 63,
+    "name": "BabanMondal",
+    "name_search": "babanmondal",
+    "phone": "9614227991",
+    "city": "Raniganj",
+    "address": "BABAN MONDAL BABUISOLE COLONY PO-BAKTARNAGAR DIST-BURDWAN PIN-713321 WEST BENGAL"
+  },
+  {
+    "id": 64,
+    "name": "UPENDRA PRASAD",
+    "name_search": "upendra prasad",
+    "phone": "9932703781",
+    "city": "Raniganj",
+    "address": "vill-ranisayer more p.o-searsole rajbari,RANIGANJ distt-burdwan(W.B) pin-713358"
+  },
+  {
+    "id": 65,
+    "name": "ABHISHEKDUTTA",
+    "name_search": "abhishekdutta",
+    "phone": "9378110007",
+    "city": "Raniganj",
+    "address": "c/o Prasad and company(project works)limited, 2x500 MW Mejia thermal power station,,Mejia-B,DVC corporation,Bankura(WB)"
+  },
+  {
+    "id": 66,
+    "name": "bidyut ghosh",
+    "name_search": "bidyut ghosh",
+    "phone": "9474017367",
+    "city": "Raniganj",
+    "address": "sadipur,bhanoil,kaliyaganj,u/d,WB"
+  },
+  {
+    "id": 67,
+    "name": "tapan bose",
+    "name_search": "tapan bose",
+    "phone": "9932869666",
+    "city": "Raniganj",
+    "address": "tapan bose, c?o bipul kr. bose, vill+ p.o-tatla(via-chakdaha), dist-nadia, pin-741222,w.b"
+  },
+  {
+    "id": 68,
+    "name": "PinakiDey",
+    "name_search": "pinakidey",
+    "phone": "9007994986",
+    "city": "Raniganj",
+    "address": "Babuisole staff colony A/10,Post : Baktarnagar. Dist :Burdwan. State :West Bengal. Pin :713321"
+  },
+  {
+    "id": 69,
+    "name": "VIKASH AGARWAL",
+    "name_search": "vikash agarwal",
+    "phone": "0341 2444352",
+    "city": "Raniganj",
+    "address": "MR. MOHAN AGARWAL SARITA 2, M.G.ROAD RANIGANJ 713347"
+  },
+  {
+    "id": 70,
+    "name": "RANIGANJ BURDWAN",
+    "name_search": "raniganj burdwan",
+    "phone": "9832851464",
+    "city": "Raniganj",
+    "address": "RESI - SITAL DAS 5 NO COLONY BURDWAN W.B 713358 India"
+  },
+  {
+    "id": 71,
+    "name": "PALLABADHYA",
+    "name_search": "pallabadhya",
+    "phone": "9434312134",
+    "city": "Raniganj",
+    "address": "P.O - BALLAVPUR (ROY PARA) P.S. - RANIGANJ DIST - BURDWAN STATE - WEST BENGAL PIN - 717323"
+  },
+  {
+    "id": 72,
+    "name": "Md.Imran Ansari",
+    "name_search": "md.imran ansari",
+    "phone": "9332151804",
+    "city": "Raniganj",
+    "address": "Po- kajora gram (lachipur colliery) dist-burdwan(W.B) pin-713338"
+  },
+  {
+    "id": 73,
+    "name": "Anilkushwaha",
+    "name_search": "anilkushwaha",
+    "phone": "9210989491",
+    "city": "Raniganj",
+    "address": "1352/1 Dayanand Colony, City- Gurgaon,State- Haryana, Pin- 122001"
+  },
+  {
+    "id": 74,
+    "name": "PARTHA SARATHI ROY",
+    "name_search": "partha sarathi roy",
+    "phone": "9932706457",
+    "city": "Raniganj",
+    "address": "C/O SUBHANKAR ROY. SARKARPARA AT+POST-RAGUNATHPUR DIST. PURULIA PIN - 723133"
+  },
+  {
+    "id": 75,
+    "name": "ASHISHCHAWRA",
+    "name_search": "ashishchawra",
+    "phone": "9832228892",
+    "city": "Raniganj",
+    "address": "31/1 DR.R.R.ROAD,C/O ASHISH ELECTRICALS,OPP.POLICE STATION, RANIGANJ ,DT.BURDWAN ,WEST BENGAL. PIN NO. 713347"
+  },
+  {
+    "id": 76,
+    "name": "ritika maheshwari",
+    "name_search": "ritika maheshwari",
+    "phone": "9332106659",
+    "city": "Raniganj",
+    "address": "138, G.T.Road(south) Shree Apartments Blick-c, Flat nos 909/910 Howrah"
+  },
+  {
+    "id": 77,
+    "name": "BRAJADULAL PRADHAN",
+    "name_search": "brajadulal pradhan",
+    "phone": "9474388771",
+    "city": "Raniganj",
+    "address": "Bankura WEST BENGAL 722143 India"
+  },
+  {
+    "id": 78,
+    "name": "Subhas Bera",
+    "name_search": "subhas bera",
+    "phone": "9933368472",
+    "city": "Raniganj",
+    "address": "Kolaghat BANGLA 721154 IN"
+  },
+  {
+    "id": 79,
+    "name": "chandan sharma",
+    "name_search": "chandan sharma",
+    "phone": "9832792730",
+    "city": "Raniganj",
+    "address": "10. No.khatal.J. K. Nagar Burdwan 713337 West Bengal"
+  },
+  {
+    "id": 80,
+    "name": "RAHUL GAURAV",
+    "name_search": "rahul gaurav",
+    "phone": "9883117811",
+    "city": "Raniganj",
+    "address": "S/o K.K.Sinha Kolkata WEST BENGAL 700055 India"
+  },
+  {
+    "id": 81,
+    "name": "Subhasismaji",
+    "name_search": "subhasismaji",
+    "phone": "9800457514",
+    "city": "Raniganj",
+    "address": "Vill-Barabagan PO:Adra Dt: Purulia(WB) 723121"
+  },
+  {
+    "id": 82,
+    "name": "SHRADHAMODI",
+    "name_search": "shradhamodi",
+    "phone": "9333105230",
+    "city": "Raniganj",
+    "address": "CHAWRA COMPLEX, N.S.B ROAD, NEAR SCHOOL MORE, RANIGANJ-713347 DIST:BURDWAN WEST BENGAL"
+  },
+  {
+    "id": 83,
+    "name": "SUPARNAROY",
+    "name_search": "suparnaroy",
+    "phone": "9474701214",
+    "city": "Raniganj",
+    "address": "c/o-Swarup Roy Damodar colliery,Lalbanglo Post:-raniganj dist:-Burdwan pin:-713347 W.B"
+  },
+  {
+    "id": 84,
+    "name": "afrozahaque",
+    "name_search": "afrozahaque",
+    "phone": "9635337915",
+    "city": "Raniganj",
+    "address": ""
+  },
+  {
+    "id": 85,
+    "name": "Pooja Dangi",
+    "name_search": "pooja dangi",
+    "phone": "9903916830",
+    "city": "Raniganj",
+    "address": ""
+  },
+  {
+    "id": 86,
+    "name": "brajadulal pradhan",
+    "name_search": "brajadulal pradhan",
+    "phone": "9432235858",
+    "city": "Raniganj",
+    "address": ""
+  },
+  {
+    "id": 87,
+    "name": "RAKESH SHAW",
+    "name_search": "rakesh shaw",
+    "phone": "9333618823",
+    "city": "Raniganj",
+    "address": "KHARSULI,SALDANGA-2, POST- RANIGANJ,DIST-BURDWAN (W.B)"
+  },
+  {
+    "id": 88,
+    "name": "RakeshYadav",
+    "name_search": "rakeshyadav",
+    "phone": "9831612082",
+    "city": "Raniganj",
+    "address": "12/1 Joydev Avenue, Durgapur-5, Burdwan, Pin-713205 West Bengal"
+  },
+  {
+    "id": 89,
+    "name": "BAKRANATH KHAN",
+    "name_search": "bakranath khan",
+    "phone": "9749419375",
+    "city": "Raniganj",
+    "address": "At-Mahabir colliary Q.NO B.07/025 PO-RANIGANJ DIST-BURDWAN PIN-713347 WEST BENGAL,INDIA"
+  },
+  {
+    "id": 90,
+    "name": "INDRAJITGHATAK",
+    "name_search": "indrajitghatak",
+    "phone": "9332014333",
+    "city": "Raniganj",
+    "address": "RANIGANJ P.O: SEARSOL RAJBARI DIST: BURDWAN, WEST BENGAL PIN: 713358"
+  },
+  {
+    "id": 91,
+    "name": "kingshukchatterjee",
+    "name_search": "kingshukchatterjee",
+    "phone": "9851647026",
+    "city": "Raniganj",
+    "address": 
